@@ -78,6 +78,8 @@ If a list of **GPU devices** appears, TensorFlow is using your **NVIDIA GPU** su
 ### **Conclusion**  
 This guide provides a **detailed walkthrough** for installing TensorFlow on **Windows 11**, covering **CPU and GPU configurations**, necessary dependencies, and post-installation verification. By following these steps, you can ensure a **stable and optimized TensorFlow environment** for deep learning projects.
 
+### **Links**
+https://codingmaster24.blogspot.com/2025/03/install-tensorflow-on-windows-11-step.html
 
 https://www.tensorflow.org/install/pip
 
@@ -86,3 +88,4 @@ https://www.tensorflow.org/install/pip#windows-native_1
 https://pypi.org/project/tensorflow-gpu/
 
 https://www.nvidia.com/en-sg/data-center/gpu-accelerated-applications/tensorflow/
+---
