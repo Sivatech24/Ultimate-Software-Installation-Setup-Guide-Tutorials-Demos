@@ -80,6 +80,9 @@ This guide provides a **detailed walkthrough** for installing TensorFlow on **Wi
 
 
 https://www.tensorflow.org/install/pip
+
 https://www.tensorflow.org/install/pip#windows-native_1
+
 https://pypi.org/project/tensorflow-gpu/
+
 https://www.nvidia.com/en-sg/data-center/gpu-accelerated-applications/tensorflow/
